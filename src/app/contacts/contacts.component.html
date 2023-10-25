@@ -1,0 +1,25 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">FirstName</th>
+        <th scope="col">LastName</th>
+        <th scope="col">Email</th>
+        <th scope="col">Gender</th>
+        <th scope="col">Age</th>
+        <th scope="col">PhoneNumber</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr  *ngFor="let contact of retrievedContactData">
+        <td>{{contact.id}}</td>
+        <td>{{contact.firstname}}</td>
+        <td>{{contact.lastname}}</td>
+        <td>{{contact.email}}</td>
+        <td>{{contact.gender}}</td>
+        <td>{{contact.age}}</td>
+        <td>{{contact.phonenumber}}</td>
+      </tr>
+      
+    </tbody>
+  </table>

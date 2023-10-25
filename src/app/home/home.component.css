@@ -1,0 +1,9 @@
+
+.col{
+    max-width: 200px;
+}
+.outer-container{
+margin-top: 50px;
+display: flex;
+justify-content: space-between;
+}

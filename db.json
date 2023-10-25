@@ -1,0 +1,102 @@
+{
+  "people": [
+    {
+      "firstname": "Tejas",
+      "lastname": "Matkar",
+      "email": "tejasmatkar257@gmail.com",
+      "gender": "male",
+      "age": 23,
+      "phonenumber": "08999941294",
+      "id": 1
+    },
+    {
+      "firstname": "Tejas",
+      "lastname": "Matkar",
+      "email": "tejasmatkar257@gmail.com",
+      "gender": "male",
+      "age": 23,
+      "phonenumber": "08999941294",
+      "id": 2
+    },
+    {
+      "firstname": "Bhushan",
+      "lastname": "Phulpagar",
+      "email": "teju@gmail.com",
+      "gender": "male",
+      "age": 23,
+      "phonenumber": "8668967123",
+      "id": 3
+    },
+    {
+      "firstname": "wqeq",
+      "lastname": "wqeqe",
+      "email": "qweqe@gmail.com",
+      "gender": "male",
+      "age": 23,
+      "phonenumber": "1231232132",
+      "id": 4
+    },
+    {
+      "firstname": "wdqqweqeqeq",
+      "lastname": "efqrrqrqrqrq",
+      "email": "befiuqiqhwuhqheqo@gmail.com",
+      "gender": "male",
+      "age": 34,
+      "phonenumber": "1234567890",
+      "id": 5
+    },
+    {
+      "firstname": "rweqwrq",
+      "lastname": "qwrqwe",
+      "email": "qwrrqwqrqrqrr@gmail.com",
+      "gender": "male",
+      "age": 11,
+      "phonenumber": "1111111111",
+      "id": 6
+    },
+    {
+      "firstname": "Saurabh",
+      "lastname": "Gogoi",
+      "email": "sg@gmail.com",
+      "gender": "male",
+      "age": 22,
+      "phonenumber": "1234567890",
+      "id": 7
+    },
+    {
+      "firstname": "narendra ",
+      "lastname": "modi",
+      "email": "namo@gmail.com",
+      "gender": "male",
+      "age": 72,
+      "phonenumber": "1231313113",
+      "id": 8
+    },
+    {
+      "firstname": "narendra ",
+      "lastname": "modi",
+      "email": "namo@gmail.com",
+      "gender": "male",
+      "age": 72,
+      "phonenumber": "1231313113",
+      "id": 9
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
